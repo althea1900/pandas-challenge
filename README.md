@@ -17,7 +17,7 @@ I've created the following tables to show:
 
 
 Of the many observable trends based on this data, here are a few that very important:
-1- Even though all the schools have a very simular bueget per student (~500), the Charter schools out perform the District schools
-2 - The total number of students in the Charter schools is significantly less (~1K to 2K per school) compared to the District shcools (~3K to 4Kper school).
-3 - The schools that have a medium propulation of students (1 to 2 thousand) shows the best student performance
-4 - Adding and additional District school could reduce the student population and raise the districts student performance
+- Even though all the schools have a very simular bueget per student (~500), the Charter schools out perform the District schools
+- The total number of students in the Charter schools is significantly less (~1K to 2K per school) compared to the District shcools (~3K to 4Kper school).
+- The schools that have a medium propulation of students (1 to 2 thousand) shows the best student performance
+- Adding and additional District school could reduce the student population and raise the districts student performance
